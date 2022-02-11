@@ -1,0 +1,6 @@
+public class TransferPuy implements Puy{
+    @Override
+    public void puy() {
+        System.out.println("Оплата переводом!");
+    }
+}
